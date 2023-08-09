@@ -7,3 +7,4 @@ body{
 h1{
     background: white;
 }
+@import url("pasta/styles")
