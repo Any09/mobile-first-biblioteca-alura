@@ -8,7 +8,7 @@
     background-color: var(--branco);
     .div-1{ 
         display: flex;
-        justify-content: space-between;
+        align-items: center;
         background-repeat: no-repeat;
         background-position: center;
 
