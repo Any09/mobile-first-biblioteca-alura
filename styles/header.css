@@ -5,4 +5,8 @@
     background
     display: inline-block
 }
- background-color: var(--branco);
+    background-color: var(--branco);
+    .div-1{ 
+        display: flex;
+        justify-content: space-around;
+    }
