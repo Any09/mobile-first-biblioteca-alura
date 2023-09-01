@@ -26,14 +26,15 @@ h1 {
 @media screen and (min-width:1024px) {
     h1 {
         display: block;
-        font-size; 30px:
+        font-size: 30px:
     }
 
 }
-.lista-menu{
+
+.lista-menu {
     display: none;
 }
-.div_menu:checked~.lista-menu{ 
+
+.div_menu:checked~.lista-menu {
     display: block;
 }
-  
