@@ -33,4 +33,7 @@ h1 {
 .lista-menu{
     display: none;
 }
+.div_menu:checked~.lista-menu{ 
+    display: block;
+}
   
