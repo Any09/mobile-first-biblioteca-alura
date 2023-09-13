@@ -45,3 +45,6 @@ h1 {
 .div_menu:checked~.lista-menu {
     display: block;
 }
+.lista-menu-título,.lista-menu-item{
+    
+}
