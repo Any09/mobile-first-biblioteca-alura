@@ -29,6 +29,10 @@ h1 {
     position: absolute;
     top:100%;
 }
+.lista-menu-título,.lista-menu-item{
+    padding: 1em;
+    background-color: var(--branco);
+}
 
 @media screen and (min-width:1024px) {
     h1 {
@@ -44,7 +48,4 @@ h1 {
 
 .div_menu:checked~.lista-menu {
     display: block;
-}
-.lista-menu-título,.lista-menu-item{
-    
 }
