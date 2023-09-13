@@ -33,7 +33,9 @@ h1 {
     padding: 1em;
     background-color: var(--branco);
 }
-
+.lista-menu-título{
+    color: var(--amarelo);
+}
 @media screen and (min-width:1024px) {
     h1 {
         display: block;
